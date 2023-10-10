@@ -68,10 +68,6 @@
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
-    <td align="center" width="200">
-        <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/f91653c3-70d1-4464-bb07-a4c10567fc79" />
-      <br>Figma
-    </td>
    <br>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
