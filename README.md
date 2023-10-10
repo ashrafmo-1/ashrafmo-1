@@ -28,7 +28,7 @@
 
 ## My favorite skills⚙️
 
-> Tools and technologies that I have worked with and am interested in
+> The tools and techniques with which you have worked
 
 <table align="center">
   <tr align="center">
