@@ -2,7 +2,7 @@
 
 ###
 
-<div align="center">
+<div>
 <a href="">
 <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/d0ec59c4-60db-4b45-a632-7c9053bdb15d">
 </a>
