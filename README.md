@@ -28,7 +28,7 @@
 
 ## My favorite skills⚙️
 
-> The tools and techniques with which you have worked
+> The tools and techniques that I have worked with
 
 <table align="center">
   <tr align="center">
