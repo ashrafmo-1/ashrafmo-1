@@ -32,6 +32,7 @@
 
 <table align="center">
   <tr align="center">
+   <div align="center">
          <td align="center" width="80">
         <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/e3e5979f-4778-4d96-8cfa-49b1075b00aa" />
       <br>Vs Code
@@ -79,7 +80,6 @@
     </td>
   </tr>
   <tr>
-<div align="center">
        <td align="center" >
         <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/e78acd84-69c0-4ade-97ad-61176af84f8e" />
       <br>Notion
