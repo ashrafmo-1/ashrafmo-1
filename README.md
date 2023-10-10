@@ -32,7 +32,6 @@
 
 <table align="center">
   <tr align="center">
-   <div align="center">
          <td align="center" width="80">
         <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/e3e5979f-4778-4d96-8cfa-49b1075b00aa" />
       <br>Vs Code
@@ -79,7 +78,6 @@
       <br>Linux
     </td>
   </tr>
-  <tr>
        <td align="center" >
         <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/e78acd84-69c0-4ade-97ad-61176af84f8e" />
       <br>Notion
@@ -88,7 +86,4 @@
         <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/d32e4931-357d-4ce0-a67f-3fac50ef3fb4" />
       <br>commad line
     </td>
-</div>
-    
- </tr>
 </table>
