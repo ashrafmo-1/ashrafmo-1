@@ -69,10 +69,6 @@
       <br>Git
     </td>
    <br>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>kali
-    </td>
   </tr>
        <td align="center" >
         <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/e78acd84-69c0-4ade-97ad-61176af84f8e" />
