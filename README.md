@@ -3,7 +3,7 @@
 ###
 
 <div>
-<a href="">
+<a href="https://www.facebook.com/ASHRAFMoOoHAMED">
 <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/d0ec59c4-60db-4b45-a632-7c9053bdb15d">
 </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -15,7 +15,7 @@
 <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/77a117ba-f200-4d05-83d5-10b03bbbe8f4">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="">
+<a href="mailto:ashrafmohamed1176@gmail.com">
 <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/5eeb8566-0239-46c6-baf0-f1ddfd6273dc">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
