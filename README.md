@@ -1,29 +1,5 @@
 <h2>Hi👋! </br> My name is Ashraf mohamed, </br> I'm a Front End Developer</h2>
 
-###
-
-<div>
-<a href="https://www.facebook.com/ASHRAFMoOoHAMED">
-<img src="https://www.facebook.com/ASHRAFMoOoHAMED">
-</a>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="">
-<img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/e1136458-0bfa-4c9d-895f-cffd6b6fe16b">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="">
-<img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/77a117ba-f200-4d05-83d5-10b03bbbe8f4">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:ashrafmohamed1176@gmail.com">
-<img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/5eeb8566-0239-46c6-baf0-f1ddfd6273dc">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="">
-<img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/c91ee0f0-5949-4fa4-b8d3-9d6a6bb7ad53">
-</a>
-</div>
-
  ###
 
 ## My favorite skills⚙️
