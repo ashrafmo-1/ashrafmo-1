@@ -28,8 +28,8 @@ portfolio link:>
       <br>Javascript
     </td>
     <td align="center" width="96">
-        <img src="[https://techstack-generator.vercel.app/js-icon.svg](https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png)" alt="icon" width="65" height="65" />
-      <br>typeScript
+        <img src="https://icons8.com/icon/HcQEdKCkXUs3/typescript" alt="icon" width="65" height="65" />
+      <br>Javascript
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
