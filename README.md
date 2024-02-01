@@ -1,6 +1,4 @@
-<h1>Hi👋! </br> My name is Ashraf mohamed, </br> I'm a Front End Developer</h1>
-</hr>
-<h1>I'm a React Developer</h1>
+<h1>Hi👋! </br> My name is Ashraf mohamed, </br> I'm a Front End Developer: "React Developer"</h1>
 
  ###
 portfolio link:>
