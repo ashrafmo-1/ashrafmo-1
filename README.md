@@ -38,11 +38,6 @@ portfolio link:>
     <td align="center" width="80">
         <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/e42ef55e-7eeb-4a86-9cf3-0e472580f39e" />
       <br>Redux ToolKit
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
-    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
