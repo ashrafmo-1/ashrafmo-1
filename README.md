@@ -3,7 +3,7 @@
 <h1 align="center">Hi👋! </br> My name is Ashraf mohamed, </br> I'm a Front End Developer: "React Developer"</h1>
 
 <p>portfolio link: </p><p>ashraf-1.vercel.app</p>
-
+<img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" alt="coding" align="right" />
     
 
 ## My favorite skills⚙️
