@@ -1,13 +1,55 @@
-<h1 align="center">Hi 👋, I'm ashraf mohamed</h1>
-<h3 align="center">I'm a Front End Developer: "React Developer"</h3>
+<h1>Hi👋! </br> My name is Ashraf mohamed, </br> I'm a Front End Developer: "React Developer"</h1>
 
-- 👨‍💻 All of my projects are available at [https://ashraf-1.vercel.app/](https://ashraf-1.vercel.app/)
+ ###
+portfolio link:>
 
-- 💬 Ask me about **Next.JS**
+    https://ashraf-1.vercel.app/
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## My favorite skills⚙️
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+> The tools and techniques that I have worked with
+
+<table align="center">
+  <tr align="center">
+         <td align="center" width="80">
+        <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/e3e5979f-4778-4d96-8cfa-49b1075b00aa" />
+      <br>Vs Code
+    </td>
+       <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="80">
+        <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/1c639213-ff7d-4ce3-938d-d9da25a52804" />
+      <br>React
+    </td>
+    <td align="center" width="80">
+        <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/e42ef55e-7eeb-4a86-9cf3-0e472580f39e" />
+      <br>Redux ToolKit
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+   <br>
+  </tr>
+       <td align="center" >
+        <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/e78acd84-69c0-4ade-97ad-61176af84f8e" />
+      <br>Notion
+    </td>
+      <td align="center" width="80">
+        <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/d32e4931-357d-4ce0-a67f-3fac50ef3fb4" />
+      <br>commad line
+    </td>
+</table>
