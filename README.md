@@ -1,4 +1,3 @@
-<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="coding" align="right" width="30%" height="230px" />
 <h1 align="left">Hi👋! </br> My name is Ashraf mohamed, </br> I'm a Front End Developer: "React Developer"</h1>
 
 # 💻 Tech Stack
