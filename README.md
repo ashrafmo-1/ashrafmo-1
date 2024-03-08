@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ashraf Mohammed.<br>Work as a front-end developer.<br>Study business information systems at Delta Higher Institute.</p>
+<p align="left">My name is Ashraf Mohammed.<br>Work as a front-end developer( reactJS ).<br>Study business information systems at Delta Higher Institute.<br></p>
 
 ###
 
