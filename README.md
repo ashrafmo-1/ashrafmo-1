@@ -1,12 +1,6 @@
-<h1 align="left">Who am I!</h1>
+![gitgub panar](https://github.com/ashrafmo-1/ashrafmo-1/assets/124946844/fb249c17-40ff-4ab8-9d21-7a8b424e48b5)
 
-###
-
-<p align="left">My name is Ashraf Mohammed.<br>Work as a front-end developer( reactJS ).<br>Study business information systems at Delta Higher Institute.<br></p>
-
-###
-
-<h2 align="left">Fav tools</h2>
+<h1 align="left">Fav tools</h1>
 
 ###
 
