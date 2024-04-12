@@ -35,11 +35,21 @@
 <h2 align="left">My Social Media</h2>
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+      <a href="https://www.facebook.com/ASHRAFMoOoHAMED" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" alt="Twitter" width="50" height="50">
+    </a>
+      <a href="https://www.linkedin.com/in/ashraf-mohamed-b931a7236/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="Twitter" width="50" height="50">
+    </a>
+    <a href="https://twitter.com/ashraf117600">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" alt="Twitter" width="50" height="50">
+    </a>
+    <a href="https://discord.com/users/870623473901371412">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="Twitter" width="50" height="50">
+    </a>
+    <a href="https://api.whatsapp.com/send/?phone=%2B201007481557&text&type=phone_number&app_absent=0">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" alt="Twitter" width="50" height="50">
+    </a>
 </div>
 
 ###
@@ -47,3 +57,4 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashrafmo-1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+<!--  -->
