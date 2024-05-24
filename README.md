@@ -1,4 +1,4 @@
-![gitgub panar](https://github.com/ashrafmo-1/ashrafmo-1/assets/124946844/fb249c17-40ff-4ab8-9d21-7a8b424e48b5)
+![linked in banar](https://github.com/ashrafmo-1/ashrafmo-1/assets/124946844/a80d6407-3915-44d5-8b63-cfef6b8c718c)
 
 <h1 align="left">Fav tools</h1>
 
