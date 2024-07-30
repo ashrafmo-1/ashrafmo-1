@@ -127,9 +127,9 @@
           </div>
 
   
-<h2 align="left">My Social Media</h2>
+<h2 align="center">My Social Media</h2>
 
-<div align="left">
+<div align="center">
       <a href="https://www.facebook.com/ASHRAFMoOoHAMED" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" alt="Twitter" width="50" height="50">
     </a>
