@@ -1,6 +1,6 @@
 ![linked in banar](https://github.com/ashrafmo-1/ashrafmo-1/assets/124946844/a80d6407-3915-44d5-8b63-cfef6b8c718c)
 
-<h1 align="left">Fav tools</h1>
+<h1 align="left">Favourite Tools && Skills</h1>
 
 ###
 
