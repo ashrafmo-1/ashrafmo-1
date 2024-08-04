@@ -58,6 +58,11 @@
               height="70"
               alt="react logo"
             />
+            <img
+              src="https://skillicons.dev/icons?i=vite"
+              height="70"
+              alt="react logo"
+            />
             <img width="12" />
             <img
               src="https://skillicons.dev/icons?i=fastapi"
@@ -75,6 +80,21 @@
               src="https://skillicons.dev/icons?i=nodejs"
               height="70"
               alt="nodejs logo"
+            />
+              <img
+              src="https://skillicons.dev/icons?i=express"
+              height="70"
+              alt="linux logo"
+            />
+              <img
+              src="https://skillicons.dev/icons?i=mongo"
+              height="70"
+              alt="linux logo"
+            />
+            <img
+              src="https://skillicons.dev/icons?i=supabase"
+              height="70"
+              alt="linux logo"
             />
             <img width="12" />
             <img
@@ -109,6 +129,11 @@
             <img width="12" />
             <img
               src="https://skillicons.dev/icons?i=vscode"
+              height="70"
+              alt="vscode logo"
+            />
+            <img
+              src="https://skillicons.dev/icons?i=webstorm"
               height="70"
               alt="vscode logo"
             />
