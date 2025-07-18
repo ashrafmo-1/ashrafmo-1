@@ -1,6 +1,34 @@
-![linked in banar](https://github.com/ashrafmo-1/ashrafmo-1/assets/124946844/a80d6407-3915-44d5-8b63-cfef6b8c718c)
+## 👋 About Me
+I’m Ashraf Mohamed, a passionate Front-End Developer with deep experience in building modern web applications using technologies like React and Next.js.
 
-<h1 align="left">Favourite Tools && Skills</h1>
+🌐 Bilingual & Internationalization Focus
+I specialize in developing bilingual projects, ensuring seamless user experiences through i18next for localization and multilingual support.
+
+🛠️ My Contributions
+🧩 Creator of ash_sass_mixins
+A lightweight SCSS mixin library that helps developers write cleaner and more efficient stylesheets by optimizing layout and spacing.
+
+💼 Current Focus
+🔧 Building a Customer Relationship Management (CRM) system
+
+⚛️ Developing dynamic React components
+
+🖥️ Designing and implementing responsive portfolios and dashboards
+
+🌐 Using Node.js and Express for backend logic and APIs
+
+🏢 Work Experience
+Elmotech (Current)
+
+Masar Soft
+
+Rmoz Tech
+
+🚀 Vision
+I’m driven by the goal of creating responsive, accessible, and high-performance applications that work across all devices.
+I'm always learning, experimenting, and pushing boundaries in JavaScript and web development.
+
+<h1 align="left">Favourite Tools</h1>
 
 ###
 
@@ -150,27 +178,3 @@
               alt="linux logo"
             />
           </div>
-
-  
-<h2 align="center">My Social Media</h2>
-
-<div align="center">
-      <a href="https://www.facebook.com/ASHRAFMoOoHAMED" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" alt="Twitter" width="50" height="50">
-    </a>
-      <a href="https://www.linkedin.com/in/ashraf-mohamed-b931a7236/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="Twitter" width="50" height="50">
-    </a>
-    <a href="https://twitter.com/ashraf117600">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" alt="Twitter" width="50" height="50">
-    </a>
-    <a href="https://discord.com/users/870623473901371412">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="Twitter" width="50" height="50">
-    </a>
-    <a href="https://api.whatsapp.com/send/?phone=%2B201007481557&text&type=phone_number&app_absent=0">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" alt="Twitter" width="50" height="50">
-    </a>
-</div>
-
-###
-
