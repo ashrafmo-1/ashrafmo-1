@@ -18,11 +18,10 @@ A lightweight SCSS mixin library that helps developers write cleaner and more ef
 🌐 Using Node.js and Express for backend logic and APIs
 
 🏢 Work Experience
+
 Elmotech (Current)
-
-Masar Soft
-
-Rmoz Tech
+Masar Soft (past)
+Rmoz Tech (past)
 
 🚀 Vision
 I’m driven by the goal of creating responsive, accessible, and high-performance applications that work across all devices.
