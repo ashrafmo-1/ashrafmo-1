@@ -54,6 +54,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="//i.imgflip.com/a813c0.gif"  />
+<div>
+  <img height="200" src="https://i.imgflip.com/a813c0.gif"  />
 </div>
