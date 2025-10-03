@@ -1,179 +1,53 @@
-## 👋 About Me
-I’m Ashraf Mohamed, a passionate Front-End Developer with deep experience in building modern web applications using technologies like React and Next.js.
-
-🌐 Bilingual & Internationalization Focus
-I specialize in developing bilingual projects, ensuring seamless user experiences through i18next for localization and multilingual support.
-
-🛠️ My Contributions
-🧩 Creator of ash_sass_mixins
-A lightweight SCSS mixin library that helps developers write cleaner and more efficient stylesheets by optimizing layout and spacing.
-
-💼 Current Focus
-🔧 Building a Customer Relationship Management (CRM) system
-
-⚛️ Developing dynamic React components
-
-🖥️ Designing and implementing responsive portfolios and dashboards
-
-🌐 Using Node.js and Express for backend logic and APIs
-
-🏢 Work Experience
-
-Elmotech (Current)
-Masar Soft (past)
-Rmoz Tech (past)
-
-🚀 Vision
-I’m driven by the goal of creating responsive, accessible, and high-performance applications that work across all devices.
-I'm always learning, experimenting, and pushing boundaries in JavaScript and web development.
-
-<h1 align="left">Favourite Tools</h1>
+<h1>Hey 👋What's Up?</h1>
 
 ###
 
- <div align="center">
-            <img
-              src="https://skillicons.dev/icons?i=html"
-              height="70"
-              alt="html5 logo"
-            />
-            <img width="12" />
-            <img
-              src="https://skillicons.dev/icons?i=pug"
-              height="70"
-              alt="pug logo"
-            />
-            <img width="12" />
-            <img
-              src="https://skillicons.dev/icons?i=css"
-              height="70"
-              alt="css3 logo"
-            />
-            <img width="12" />
-            <img
-              src="https://skillicons.dev/icons?i=sass"
-              height="70"
-              alt="sass logo"
-            />
-            <img width="12" />
-            <img
-              src="https://skillicons.dev/icons?i=tailwind"
-              height="70"
-              alt="tailwindcss logo"
-            />
-            <img width="12" />
-            <img
-              src="https://skillicons.dev/icons?i=bootstrap"
-              height="70"
-              alt="bootstrap logo"
-            />
-            <img width="12" />
-            <img
-              src="https://skillicons.dev/icons?i=js"
-              height="70"
-              alt="javascript logo"
-            />
-            <img width="12" />
-            <img
-              src="https://skillicons.dev/icons?i=ts"
-              height="70"
-              alt="typescript logo"
-            />
-            <img width="12" />
-            <img
-              src="https://skillicons.dev/icons?i=react"
-              height="70"
-              alt="react logo"
-            />
-            <img
-              src="https://skillicons.dev/icons?i=vite"
-              height="70"
-              alt="react logo"
-            />
-            <img width="12" />
-            <img
-              src="https://skillicons.dev/icons?i=fastapi"
-              height="70"
-              alt="fastapi logo"
-            />
-            <img width="12" />
-            <img
-              src="https://skillicons.dev/icons?i=nextjs"
-              height="70"
-              alt="nextjs logo"
-            />
-            <img width="12" />
-            <img
-              src="https://skillicons.dev/icons?i=nodejs"
-              height="70"
-              alt="nodejs logo"
-            />
-              <img
-              src="https://skillicons.dev/icons?i=express"
-              height="70"
-              alt="linux logo"
-            />
-              <img
-              src="https://skillicons.dev/icons?i=mongo"
-              height="70"
-              alt="linux logo"
-            />
-            <img
-              src="https://skillicons.dev/icons?i=supabase"
-              height="70"
-              alt="linux logo"
-            />
-            <img width="12" />
-            <img
-              src="https://skillicons.dev/icons?i=redux"
-              height="70"
-              alt="redux logo"
-            />
-            <img width="12" />
-            <img
-              src="https://skillicons.dev/icons?i=git"
-              height="70"
-              alt="git logo"
-            />
-            <img width="12" />
-            <img
-              src="https://skillicons.dev/icons?i=github"
-              height="70"
-              alt="github logo"
-            />
-            <img width="12" />
-            <img
-              src="https://skillicons.dev/icons?i=gitlab"
-              height="70"
-              alt="gitlab logo"
-            />
-            <img width="12" />
-            <img
-              src="https://skillicons.dev/icons?i=postman"
-              height="70"
-              alt="postman logo"
-            />
-            <img width="12" />
-            <img
-              src="https://skillicons.dev/icons?i=vscode"
-              height="70"
-              alt="vscode logo"
-            />
-            <img
-              src="https://skillicons.dev/icons?i=webstorm"
-              height="70"
-              alt="vscode logo"
-            />
-            <img width="12" />
-            <img
-              src="https://skillicons.dev/icons?i=powershell"
-              height="70"
-              alt="powershell logo"
-            />
-            <img width="12" />
-            <img
-              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-              height="70"
-              alt="linux logo"
-            />
-          </div>
+<div>
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo"  />
+  <img width="12" />
+</div>
+
+###
+
+<div>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+</div>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ashrafmo-1&"  />
+
+###
+
+<div>
+  <img src="https://streak-stats.demolab.com?user=ashrafmo-1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=ashrafmo-1&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashrafmo-1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashrafmo-1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
