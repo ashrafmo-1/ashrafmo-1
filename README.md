@@ -77,51 +77,6 @@ I enjoy building systems that remain understandable even when the application gr
 
 ---
 
-## 🏗️ Architecture & Engineering
-
-```text
-Frontend Architecture
-├── Feature-Sliced Design
-├── Modular Architecture
-├── Monorepo Architecture
-├── Design Systems
-├── API Layer Architecture
-├── State Management
-├── Server State Management
-├── Form Architecture
-├── Authentication & Authorization
-└── Developer Experience
-```
-
-### Technologies I frequently use
-
-```text
-React
-Next.js
-TypeScript
-Vite
-Tailwind CSS
-SCSS / Sass
-
-TanStack Query
-React Hook Form
-Zod
-Axios
-
-NestJS
-Node.js
-Supabase
-MongoDB
-MySQL
-
-Turborepo
-pnpm Workspaces
-Docker
-Vercel
-```
-
----
-
 # 🚀 Featured Open Source Project
 
 <table>
@@ -169,70 +124,9 @@ npx create-fsd-architecture@latest my-app
 - 🧠 Reduce architecture decisions developers have to repeatedly make
 - 📦 Support multiple frameworks through one workflow
 
-### Example
-
-```bash
-npx create-fsd-architecture@latest my-app
-```
-
-Then continue working with the same architecture:
-
-```bash
-fsd generate feature auth
-fsd generate entity user
-fsd generate widget navbar
-fsd generate page dashboard
-```
-
-> Architecture shouldn't be something you fix later.  
-> It should exist from day one.
-
----
-
-## 🧰 Current Focus
-
-```typescript
-const ashraf = {
-  role: "Frontend Architect",
-  focus: [
-    "Frontend Architecture",
-    "Feature-Sliced Design",
-    "Developer Tools",
-    "Design Systems",
-    "Monorepos",
-    "Open Source",
-  ],
-  stack: {
-    frontend: ["React", "Next.js", "TypeScript"],
-    styling: ["Tailwind CSS", "SCSS"],
-    backend: ["NestJS", "Node.js"],
-    databases: ["MongoDB", "MySQL", "Supabase"],
-    tooling: ["Turborepo", "pnpm", "Docker", "GitHub"],
-  },
-};
-```
-
 ---
 
 ## 📊 GitHub Statistics
-
-<div align="center">
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=ashrafmo-1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
-  alt="Ashraf's GitHub Stats"
-/>
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafmo-1&layout=compact&hide_border=true"
-  alt="Ashraf's Top Languages"
-/>
-
-</div>
-
-<br/>
 
 <div align="center">
 
@@ -249,20 +143,12 @@ const ashraf = {
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ashrafmo1/)">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="LinkedIn" />
 </a>
 
-<a href="YOUR_X_URL">
+<a href="[YOUR_X_URL](https://x.com/ashrafqopiah)">
   <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="30" alt="X" />
-</a>
-
-<a href="YOUR_DISCORD_URL">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&style=for-the-badge" height="30" alt="Discord" />
-</a>
-
-<a href="YOUR_FACEBOOK_URL">
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="30" alt="Facebook" />
 </a>
 
 </div>
